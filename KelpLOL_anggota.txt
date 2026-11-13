@@ -4,3 +4,6 @@ Anggota Kelompok:
 3. Rhiquelshen Charolim / 240712846
 
 Pembagian Tugas:
+Andika Surya Wonowijaya = mengerjakan laporan
+Samuel Viva Gracia = mengerjakan laporan
+Rhiquelshen Charolim = mengerjakan code proyek uts machine learning
