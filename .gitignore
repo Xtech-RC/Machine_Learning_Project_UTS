@@ -1,0 +1,10 @@
+# Data mentah dari dosen (tidak dipublikasikan, sesuai spesifikasi)
+dataset/Survei_Gaya_Belajar_IPS_IPK_NO_PII.xlsx
+**/Survei_Gaya_Belajar_IPS_IPK_NO_PII.xlsx
+
+# Grafik lama yang sudah tidak dipakai
+figures/_to_delete/
+
+# File sementara Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
