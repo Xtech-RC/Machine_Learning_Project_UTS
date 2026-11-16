@@ -9,7 +9,7 @@ Proyek ini menyiapkan dan mengeksplorasi data survei preferensi gaya belajar mah
 | Nama | NPM |
 |---|---|
 | Andika Surya Wonowijaya | 240712825 |
-| Samuel Viva Gracia | 240712829 |
+| Samuel Viva Gracia | 240712828 |
 | Rhiquelshen Charolim | 240712846 |
 
 Pembagian tugas: lihat `KelpLOL_anggota.txt`.
